@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <artifactId>sakai-report</artifactId>
+    <groupId>org.sakaiproject</groupId>
+    <version>10.6</version>
+    <relativePath>../../pom.xml</relativePath>
+  </parent>
+  <name>sakai-report</name>
+  <groupId>org.sakaiproject</groupId>
+  <artifactId>sakai-report</artifactId>
+  <organization>
+    <name>Maharishi University of Management</name>
+    <url>http://sakaiproject.org/</url>
+  </organization>
+  <inceptionYear>1973</inceptionYear>
+  <packaging>sakai-component</packaging>
+  <properties>
+    <deploy.target>components</deploy.target>
+  </properties>
+  <dependency>
+    <groupId>org.sakaiproject.entitybroker</groupId>
+    <artifactId>entitybroker-api</artifactId>
+    <version>10.6</version>
+    <scope>provided</scope>
+</dependency>
+  <build>
+    <resources />
+<!-- java source -->
+  </build>
+</project>
