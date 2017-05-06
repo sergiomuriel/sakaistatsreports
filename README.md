@@ -31,9 +31,13 @@ The cause was that the necessary permission could not be set from the admin sett
 
 Several resources on the internet were looked at to solve this problem. These were the most useful:
 •	Sakai function keys list: [https://gist.github.com/zathomas/7ca8e9b83932a99deff1](https://gist.github.com/zathomas/7ca8e9b83932a99deff1)
+
 •	"reports.view" permission question in the Sakai forum: [https://groups.google.com/a/apereo.org/forum/#!topic/sakai-dev/BY0lBKm2I60](https://groups.google.com/a/apereo.org/forum/#!topic/sakai-dev/BY0lBKm2I60)
+
 •	How to define an entity provider: [https://confluence.sakaiproject.org/display/SAKDEV/Defining+EntityProviders](https://confluence.sakaiproject.org/display/SAKDEV/Defining+EntityProviders)
+
 •	How to register a new permission (Authz) from a Sakai tool: [https://confluence.sakaiproject.org/display/BOOT/Using+the+FunctionManager+Service](https://confluence.sakaiproject.org/display/BOOT/Using+the+FunctionManager+Service)
+
  
 
  
