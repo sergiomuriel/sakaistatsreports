@@ -41,28 +41,28 @@ Configuration
 
 These configuration steps are meant for every site. Screenshots are from Sakai 11.
 1.	Go to the site realm:
- ![config01](https://github.com/sergiomuriel/sakaistatsreports/doc/img/config01.png)
+ ![config01](https://github.com/sergiomuriel/sakaistatsreports/tree/master/doc/img/config01.png)
  
 2.	Click on Instructor role:
- ![config02](https://github.com/sergiomuriel/sakaistatsreports/doc/img/config02.png)
+ ![config02](https://github.com/sergiomuriel/sakaistatsreports/tree/master/doc/img/config02.png)
 
 3.	Select "reports.view" permission:
- ![config03](https://github.com/sergiomuriel/sakaistatsreports/doc/img/config03.png)
+ ![config03](https://github.com/sergiomuriel/sakaistatsreports/tree/master/doc/img/config03.png)
 
 4.	Save changes.
- ![config04](https://github.com/sergiomuriel/sakaistatsreports/doc/img/config04.png)
+ ![config04](https://github.com/sergiomuriel/sakaistatsreports/tree/master/doc/img/config04.png)
  
  
  
 Testing 
 1.	Go to the site page and click on Statistics:
- ![test01](https://github.com/sergiomuriel/sakaistatsreports/doc/img/test01.png)
+ ![test01](https://github.com/sergiomuriel/sakaistatsreports/tree/master/doc/img/test01.png)
 
 2.	Click on REPORTS tab:
- ![test02](https://github.com/sergiomuriel/sakaistatsreports/doc/img/test02.png)
+ ![test02](https://github.com/sergiomuriel/sakaistatsreports/tree/master/doc/img/test02.png)
 
 3.	Create a new report by clicking on the Add link:
- ![test03](https://github.com/sergiomuriel/sakaistatsreports/doc/img/test03.png)
+ ![test03](https://github.com/sergiomuriel/sakaistatsreports/tree/master/doc/img/test03.png)
 
 There are many different ways to create these reports. Here is an example: [https://youtu.be/kvnt6Nk77-o](https://youtu.be/kvnt6Nk77-o)
 
