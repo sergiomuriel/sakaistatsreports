@@ -46,6 +46,7 @@ Configuration
 These configuration steps are meant for every site. Screenshots are from Sakai 11.
 1.	Go to the site realm:
  ![config01](https://github.com/sergiomuriel/sakaistatsreports/tree/master/doc/img/config01.png)
+ <img src="/sergiomuriel/sakaistatsreports/tree/master/doc/img/config01.png"/>
  
 2.	Click on Instructor role:
  ![config02](https://github.com/sergiomuriel/sakaistatsreports/tree/master/doc/img/config02.png)
