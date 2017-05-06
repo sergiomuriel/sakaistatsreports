@@ -37,13 +37,13 @@ Several resources on the internet were looked at to solve this problem. These we
 
 These configuration steps are meant for every site. Screenshots are from Sakai 11.
 1.	Go to the site realm:<br>
-[[https://github.com/sergiomuriel/sakaistatsreports/blob/master/doc/img/config01.png|alt=config01]]
+![config01](https://github.com/sergiomuriel/sakaistatsreports/blob/master/doc/img/config01.png)
  
 2.	Click on Instructor role:<br>
-[[https://github.com/sergiomuriel/sakaistatsreports/blob/master/doc/img/config02.png|alt=config02]]
+![config02](https://github.com/sergiomuriel/sakaistatsreports/blob/master/doc/img/config02.png)
 
 3.	Select "reports.view" permission:<br>
-[[https://github.com/sergiomuriel/sakaistatsreports/blob/master/doc/img/config03.png|alt=config03]]
+![config03](https://github.com/sergiomuriel/sakaistatsreports/blob/master/doc/img/config03.png)
 
 4.	Save changes.
  
@@ -52,13 +52,13 @@ These configuration steps are meant for every site. Screenshots are from Sakai 1
 # Testing 
 
 1.	Go to the site page and click on Statistics:<br>
-[[https://github.com/sergiomuriel/sakaistatsreports/blob/master/doc/img/test01.png|alt=test01]]
+![test01](https://github.com/sergiomuriel/sakaistatsreports/blob/master/doc/img/test01.png)
 
 2.	Click on REPORTS tab:<br>
-[[https://github.com/sergiomuriel/sakaistatsreports/blob/master/doc/img/test02.png|alt=test02]]
+![test02](https://github.com/sergiomuriel/sakaistatsreports/blob/master/doc/img/test02.png)
 
 3.	Create a new report by clicking on the Add link:<br>
-[[https://github.com/sergiomuriel/sakaistatsreports/blob/master/doc/img/test03.png|alt=test03]]
+![test03](https://github.com/sergiomuriel/sakaistatsreports/blob/master/doc/img/test03.png)
 
 There are many different ways to create these reports. Here is an example: [https://youtu.be/kvnt6Nk77-o](https://youtu.be/kvnt6Nk77-o)
 
